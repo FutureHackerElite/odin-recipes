@@ -1,3 +1,2 @@
 # odin-recipes
-This is the first project, in a long line of futrue projects.
-This project will be a recipe website. That will be made up of an index file, with several links to different types of recipes.
+This project will be a recipe website consisting of a homepage containing different links that contain pages. These are pages that will contain all the information needed for these recipes. By the end, I should have a working website.
