@@ -1,15 +1,37 @@
+*,
+*::before
+*::after {
+  box-sizing:border-box;
+}
+
+
 
 body {
-    background-color:rgb(148, 214, 113)
-}
-li {
-  color:rgb(77, 63,15 )
+    background-color: #a7d2cb;
 }
 
-.icepic {
-    width: 200px;
-    height: auto;
+button {
+  font-size: 15px;
+  border: none;
+  display:block;
+  color: #D3657A;
+  background-color:#FCDF81;
+  margin:12px;
+  margin-left: 23px;
+  padding: 20px;
+
 }
- .center {
-    text-align: center
- }
+
+div {
+  width:200px;
+  background-color:#5080FF;
+  padding: 30px;
+  padding-left: 50px;
+  padding-bottom: 2px;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+.text {
+  color: #D3657A;
+}
